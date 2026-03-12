@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Global Pollution Analysis and Energy Recovery
 
 This project analyzes global pollution data and predicts energy recovery using machine learning models.
@@ -25,4 +24,3 @@ Jupyter Notebook
 Harshida Joshi
 =======
 # Global-Pollution-Energy-Recovery
->>>>>>> 5e7fa171a5e882560c1c15d9eb80f1e51f457ad0
